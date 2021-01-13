@@ -12,7 +12,12 @@
         <!-- Specific Meta -->
         <meta name="description" content="Desarrollo de páginas web, sistemas, tiendas en línea y diseño gráfico en Ocotlán." />
         <meta name="keywords" content="paginas web, aplicaciones, sistemas, tiendas en linea, e-commerce, ocotlán jalisco, diseño, diseño gráfico, ocotlán" />
-        <meta name="author" content="Retrina Group" />
+        <meta name="author" content="Luis Esparza" />
+        <meta property="og:title" content="Luis Esparza - Desarrollador Web."/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:description" content="Desarrollo de páginas web, sistemas, tiendas en línea y diseño gráfico en Ocotlán."/>
+        <meta property="og:image" content="https://www.lesparza.com/assets/img/background.jpg"/>
+        <meta property="og:url" content="https://www.lesparza.com/"/>
 
         <!--  FavIcon  -->
         <link rel="shortcut icon" href="assets/img/icon.jpg">
